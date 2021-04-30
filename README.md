@@ -4,7 +4,7 @@
  Source: https://en.wikipedia.org/wiki/Text_editor
 
 ## User Interface 
-* Program Window
+* Window
 * Title Bar
 * Menu Bar
 * Tool Bar
