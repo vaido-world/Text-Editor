@@ -5,7 +5,7 @@
 
 ## User Interface 
 * Program Window
-* Title
+* Title Bar
 * Menu Bar
 * Tool Bar
 
