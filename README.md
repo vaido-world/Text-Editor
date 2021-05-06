@@ -16,6 +16,7 @@ Reference: https://wiki.eclipse.org/User_Interface_Guidelines#Commands
 https://wiki.eclipse.org/User_Interface_Guidelines#The_Workbench
 
 ## License
+Authorship has been removed for this project, since the software depends on general knowledge and implies science.
 ### MIT for Software
 MIT license has been chosen as it is the least complex and least restrictive license among GPL, BSD, Apache.
 ### Creative Commons for Content
