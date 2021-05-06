@@ -20,6 +20,6 @@ https://wiki.eclipse.org/User_Interface_Guidelines#The_Workbench
 MIT license has been chosen as it is the least complex and least restrictive license among GPL, BSD, Apache.
 ### Creative Commons for Content
 However, MIT license only applies only to the software, and the less mutable content is about to be seperately.  
-**Licensed as:** CC0 1.0 Universal, Public Domain Dedication.
+**Licensed as:** [CC0 1.0 Universal, Public Domain Dedication.](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
 
 
