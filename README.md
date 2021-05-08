@@ -23,6 +23,6 @@ Authorship has been removed for this project, since the software depends on gene
 Creative Commons Zero v1.0 Universal license has been chosen as it is the least complex and least restrictive license among MIT, GPL, BSD, Apache, Unlicense, Boost.  
 
 ### Convincing material   
-Public Domain and Open Source: [1](https://opensource.stackexchange.com/questions/4958/why-use-licenses-why-not-release-open-source-code-to-public-domain/4959) [2](https://softwareengineering.stackexchange.com/questions/106157/how-to-release-project-under-public-domain)
+Public Domain and Open Source: [1](https://opensource.stackexchange.com/questions/4958/why-use-licenses-why-not-release-open-source-code-to-public-domain/4959) [2](https://softwareengineering.stackexchange.com/questions/106157/how-to-release-project-under-public-domain) [3](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)
 
 
