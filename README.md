@@ -9,7 +9,7 @@
   * ⩸ Menu Bar
   * ⩸ Tool Bar
   * ⌯ 📑 Editor
-  * 𝍔 Status Line
+  * 𝍐 Status Line
   * [I-beam pointer](https://www.computerhope.com/jargon/i/ibeam.htm)
 
 Reference: https://wiki.eclipse.org/User_Interface_Guidelines#Commands  
