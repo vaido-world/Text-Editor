@@ -9,7 +9,9 @@
   * ⩸ Menu Bar
   * ⩸ Tool Bar
   * 📑 Editor
-  * 𝍐 Status Line
+  * 𝍐 Status Line  
+
+* Other:
   * [I-beam pointer](https://www.computerhope.com/jargon/i/ibeam.htm)
   * Drag N Drop 🗗
   * ⌯
