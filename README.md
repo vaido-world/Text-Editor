@@ -8,10 +8,11 @@
   * 🗔 Title Bar 
   * ⩸ Menu Bar
   * ⩸ Tool Bar
-  * ⌯ 📑 Editor
+  * 📑 Editor
   * 𝍐 Status Line
   * [I-beam pointer](https://www.computerhope.com/jargon/i/ibeam.htm)
   * Drag N Drop 🗗
+  * ⌯
 
 Reference: https://wiki.eclipse.org/User_Interface_Guidelines#Commands  
 https://wiki.eclipse.org/User_Interface_Guidelines#The_Workbench
