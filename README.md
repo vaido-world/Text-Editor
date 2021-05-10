@@ -1,4 +1,4 @@
-# Text-Editor
+# 🗒 Text-Editor
  Computer program that edits plain text. 
  
  Source: https://en.wikipedia.org/wiki/Text_editor
