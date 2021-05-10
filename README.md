@@ -8,7 +8,7 @@
   * ⩸ Title Bar
   * ⩸ Menu Bar
   * ⩸ Tool Bar
-  * Editor
+  * 📑 Editor
   * Status Line
   * [I-beam pointer](https://www.computerhope.com/jargon/i/ibeam.htm)
 
