@@ -5,7 +5,7 @@
 
 ## 📟 User Interface
 * [🔳 Window](https://en.wikipedia.org/wiki/Window_(computing))
-  * 🗔 Title Bar 
+  * 🗔 Title Bar: [[Application Icon]]() [[Decoration Hooks]]()
   * ⩸ Menu Bar
   * ⩸ Tool Bar
   * 📑 Editor
