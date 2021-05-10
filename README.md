@@ -8,7 +8,6 @@
   * Title Bar
   * Menu Bar
   * Tool Bar
-
   * Editor
   * Status Line
 
