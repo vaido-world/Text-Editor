@@ -4,7 +4,7 @@
  Source: https://en.wikipedia.org/wiki/Text_editor
 
 ## 📟 User Interface 
-* [Window](https://en.wikipedia.org/wiki/Window_(computing))
+* [🔳 Window](https://en.wikipedia.org/wiki/Window_(computing))
   * Title Bar
   * Menu Bar
   * Tool Bar
