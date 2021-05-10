@@ -16,7 +16,7 @@
   * Drag N Drop 🗗
   * ⌯
 
-Reference:  
+**Reference:**  
 https://wiki.eclipse.org/User_Interface_Guidelines#Commands  
 https://wiki.eclipse.org/User_Interface_Guidelines#The_Workbench
 
