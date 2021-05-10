@@ -5,12 +5,12 @@
 
 ## User Interface 
 * [Window](https://en.wikipedia.org/wiki/Window_(computing))
-* Title Bar
-* Menu Bar
-* Tool Bar
+  * Title Bar
+  * Menu Bar
+  * Tool Bar
 
-* Editor
-* Status Line
+  * Editor
+  * Status Line
 
 Reference: https://wiki.eclipse.org/User_Interface_Guidelines#Commands  
 https://wiki.eclipse.org/User_Interface_Guidelines#The_Workbench
