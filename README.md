@@ -8,7 +8,7 @@
   * [**🗔 Title Bar:**](https://en.wikipedia.org/wiki/Window_(computing)#Title_bar) [[Application Icon]]() [[Window Decoration Hooks]]()
   * ⩸ Menu Bar: 
   * ⩸ Tool Bar:
-  * 📑 Editor:
+  * 📑 Editor: [Preprocessing] [Memory Management]
   * 𝍐 Status Line: 
 
 * Other:
