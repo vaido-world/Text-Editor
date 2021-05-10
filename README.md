@@ -6,10 +6,10 @@
 ## 📟 User Interface
 * [🔳 Window](https://en.wikipedia.org/wiki/Window_(computing))
   * 🗔 Title Bar: [[Application Icon]]() [[Window Decoration Hooks]]()
-  * ⩸ Menu Bar
-  * ⩸ Tool Bar
-  * 📑 Editor
-  * 𝍐 Status Line  
+  * ⩸ Menu Bar: 
+  * ⩸ Tool Bar:
+  * 📑 Editor:
+  * 𝍐 Status Line: 
 
 * Other:
   * [I-beam pointer](https://www.computerhope.com/jargon/i/ibeam.htm)
