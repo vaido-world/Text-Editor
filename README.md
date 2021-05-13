@@ -1,6 +1,9 @@
 # 🗒 Text-Editor
  Computer program that edits plain text. 
  
+ The Project is targeting on using C language and win32 API  
+ The C language standard: c98  
+ 
  Source: https://en.wikipedia.org/wiki/Text_editor
 
 ## 📟 User Interface
