@@ -2,8 +2,8 @@
  Computer program that edits plain text. 
  
  The Project is targeting on using:  
- **C language** and **win32 API** to support the operating systems: Windows 2000 - Windows 10  
- **C language** and **gtk3 API** to support Gnome Environment based distributions.
+ **C language** and **win32 API** to support the operating systems: **Windows 2000 - Windows 10**  
+ **C language** and **gtk3 API** to support **Gnome Environment based distributions.**
  
  The general C language standard used in the project: **c98**  
  
