@@ -7,6 +7,8 @@
  
  The general C language standard used in the project: **c98**  
  
+ Recommended Compiler for the Project: **Tiny C Compiler**.
+ 
  Source: https://en.wikipedia.org/wiki/Text_editor
 
 ## 📟 User Interface
