@@ -5,7 +5,7 @@
  **C language** and **win32 API** to support the operating systems: **Windows 2000 - Windows 10**  
  **C language** and **gtk3 API** to support **Gnome Environment based distributions.**
  
- The general C language standard used in the project: **C89** also known as Ansi C  
+ The general C language standard used in the project: **C89** (Known as ANSI C)
  
  ## ☄️ Compilation and assembly
  Recommended Compiler for the Project: **Tiny C Compiler**.
